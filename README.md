@@ -11,7 +11,7 @@
 <br><br>
 * ## 🚀 Demonstração
 
-<img src="[demo_01.gif]">
+!(https://caruaru.net/demo_01.gif)
 
 !Assista a um vídeo curto do Finâncio em ação: [Link para o vídeo]
 <br><br>
