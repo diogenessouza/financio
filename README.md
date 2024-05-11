@@ -11,7 +11,7 @@
 <br><br>
 * ## 🚀 Demonstração
 
-![Gif da interface do chatbot em ação](link-para-o-gif)
+[https://caruaru.net/Financio.gif]
 
 !Assista a um vídeo curto do Finâncio em ação: [Link para o vídeo]
 <br><br>
