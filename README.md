@@ -13,11 +13,11 @@
 
 <img src="https://caruaru.net/demo_01.gif" style="height:500px; width: auto;">
 
-**Teste agora mesmo em:** <a href="[URL](https://caruaru.net/)" target="_blank"></a>
+**Teste agora mesmo em:** <https://caruaru.net/>
 <br><br>
 ## 💻 Como Usar
 
-1. Acesse o site: <https://caruaru.net>
+1. Acesse o site: <https://caruaru.net> (versão Web)
 2. Comece a conversar com o Finâncio! 💬
 
 Simples assim! 😊
