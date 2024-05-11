@@ -9,11 +9,11 @@
 * 💡 **Dicas Personalizadas:**  Receba dicas inteligentes para economizar e alcançar seus objetivos financeiros.
 * 💬 **Interface Amigável:** Converse com o Finâncio como se estivesse falando com um amigo!
 <br><br>
-* ## 🚀 Demonstração
+* ## 🚀 Demonstração da versão Web
 
-<img src="https://caruaru.net/demo_01.gif" style="height:400px; width: auto;">
+<img src="https://caruaru.net/demo_01.gif" style="height:500px; width: auto;">
 
-!Assista a um vídeo curto do Finâncio em ação: [Link para o vídeo]
+!Teste agora mesmo em: [https://caruaru.net/]
 <br><br>
 ## 💻 Como Usar
 
