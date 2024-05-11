@@ -13,7 +13,7 @@
 
 <img src="https://caruaru.net/demo_01.gif" style="height:500px; width: auto;">
 
-!Teste agora mesmo em: [https://caruaru.net/]
+**Teste agora mesmo em:** <a href="[URL](https://caruaru.net/)" target="_blank"></a>
 <br><br>
 ## 💻 Como Usar
 
