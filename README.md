@@ -17,7 +17,7 @@
 <br><br>
 ## 💻 Como Usar
 
-1. Acesse o site: <https://caruaru.net> (versão Web)
+1. Acesse o site: <https://diogenesf.com/financio> (versão Web)
 2. Comece a conversar com o Finâncio! 💬
 
 Simples assim! 😊
