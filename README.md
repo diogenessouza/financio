@@ -13,7 +13,7 @@
 
 <img src="https://caruaru.net/demo_01.gif" style="height:500px; width: auto;">
 
-**Teste agora mesmo em:** <https://caruaru.net/>
+**Teste agora mesmo em:** <https://diogenesf.com/financio>
 <br><br>
 ## 💻 Como Usar
 
